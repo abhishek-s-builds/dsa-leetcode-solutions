@@ -7,14 +7,9 @@ Given a string, reverse the string in-place.
 https://leetcode.com/problems/reverse-string/
 
 ## 💡 Approach (Two Pointers)
-- Use two pointers:
-  - One at start (left)
-  - One at end (right)
-- Swap characters
-- Move left++ and right--
+- Use STL reverse function:
+- Time Complexity: O(n)
+- Space Complexity: O(n)
 
-## ⏱ Time Complexity
-O(n)
-
-## 🧠 Space Complexity
-O(1)
+## Code
+01-reverse-string.cpp
