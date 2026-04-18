@@ -7,7 +7,7 @@ Given a string, reverse the string in-place.
 https://leetcode.com/problems/reverse-string/
 
 ## 💡 Approach (Two Pointers)
-- Use STL reverse function:
+- Use STL reverse function
 - Time Complexity: O(n)
 - Space Complexity: O(n)
 
