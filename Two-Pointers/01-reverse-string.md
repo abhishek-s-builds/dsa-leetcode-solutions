@@ -11,5 +11,5 @@ https://leetcode.com/problems/reverse-string/
 - Time Complexity: O(n)
 - Space Complexity: O(n)
 
-## Code
+# Code
 01-reverse-string.cpp
