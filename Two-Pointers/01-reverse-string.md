@@ -1,7 +1,7 @@
 # Reverse String
 
 ## 🧩 Problem
-Given a string, reverse the string in-place.
+Given a string, reverse the string in-place
 
 ## 🔗 LeetCode Link
 https://leetcode.com/problems/reverse-string/
